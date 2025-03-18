@@ -28,3 +28,6 @@ Si te gustan los paisajes naturales, el Lake District es uno de los destinos má
 ## Foto
 ![](https://www.globalconnection.com.co/wp-content/uploads/2024/06/destinos-turisticos-en-Inglaterra.png)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5HEKjXVoqkGezEH0yly8OyR7Ev7ZNCxpXWg&s)
+
+## Informacion sobre Inglaterra
+Inglaterra, la cuna de Shakespeare y The Beatles, es un país de las Islas Británicas que limita con Escocia y Gales. La capital, Londres, se ubica en el río Támesis y cuenta con el Parlamento, el Big Ben y la Torre de Londres del siglo XI. También es un centro artístico y comercial moderno y multicultural. Otras ciudades grandes son Manchester, Birmingham, Liverpool, Bristol y los centros universitarios de Oxford y Cambridge.
