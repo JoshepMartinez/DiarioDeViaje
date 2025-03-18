@@ -15,3 +15,7 @@ El Palacio Imperial de Tokio es la residencia del emperador de Japón. Aunque no
 - Sube a la Torre de Tokio o al Tokyo Skytree
 *Torre de Tokio:* Inspirada en la Torre Eiffel, esta torre ofrece una vista panorámica espectacular de la ciudad. Es una excelente forma de ver el contraste entre los rascacielos y los templos tradicionales.
 *Tokyo Skytree:* Más alta que la Torre de Tokio, el Tokyo Skytree es uno de los edificios más altos del mundo. Desde sus plataformas de observación, disfrutarás de vistas impresionantes de la ciudad, especialmente al atardecer o durante la noche.
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vaBCRADlEadSDL4r9Fvlltdj0tPgf1iRjA&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt0XTZIUeolkPAsjes0xYViJy4sOtgtywAw&s)
