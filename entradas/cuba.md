@@ -39,3 +39,8 @@ Cienfuegos es una ciudad costera conocida como la "Perla del Sur". La ciudad com
 Recorrer el Parque José Martí: Una plaza central rodeada de edificios neoclásicos.
 Palacio de Valle: Un impresionante edificio con arquitectura islámica, gótica y renacentista que merece una visita.
 Bahía de Cienfuegos: Puedes disfrutar de las vistas al mar y explorar sus alrededores, o incluso hacer un paseo en bote.
+
+## Foto
+! [](https://static.wixstatic.com/media/fa946b_8f3d768fb7ee499ea2a4cabbdc1168b8~mv2.jpg/v1/fill/w_800,h_450,al_c,q_80,enc_avif,quality_auto/fa946b_8f3d768fb7ee499ea2a4cabbdc1168b8~mv2.jpg)
+
+! [](https://www.travelreport.mx/wp-content/uploads/2019/06/lugares-turisticos-de-Cuba-habana.jpg)
