@@ -19,3 +19,7 @@ Recomendación: La entrada es gratuita, y es un lugar fascinante tanto por su ar
 - Fontana di Trevi
 Descripción: La famosa fuente barroca Fontana di Trevi es uno de los lugares más emblemáticos de Roma. Según la tradición, si lanzas una moneda de espaldas a la fuente, aseguras tu regreso a Roma.
 Recomendación: Visítala temprano por la mañana o al final del día para evitar las multitudes. No olvides hacer tu deseo con la moneda.
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQck-CRpRw5WkyHezhvZaC2bX5ATSCzWxhRjw&s)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6t7e2c1xEGi-QcqbiVR7ZTfvE1ZfydqcVcQ&s)
