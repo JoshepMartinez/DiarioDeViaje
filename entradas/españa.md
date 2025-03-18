@@ -14,3 +14,8 @@ España es un país ubicado en el suroeste de Europa, conocido por su rica histo
 *Parque Güell:* Otro proyecto de Gaudí, con mosaicos coloridos, vistas panorámicas y arquitectura innovadora.
 *La Rambla:* Una famosa calle peatonal llena de vida, donde podrás disfrutar de tiendas, restaurantes, artistas y el famoso mercado La Boquería.
 *Barrio Gótico:* Un laberinto de calles estrechas llenas de historia, con la Catedral de Barcelona y plazas pintorescas.
+
+## Foto
+![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/af/ca/4f/caption.jpg?w=1200&h=-1&s=1)
+
+![](https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/03/museo-del-prado-2.jpg)
