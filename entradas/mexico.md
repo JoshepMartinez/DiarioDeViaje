@@ -34,3 +34,7 @@ Esta ciudad es conocida por su hermoso centro histórico, sus calles estrechas y
 El Callejón del Beso: Un lugar famoso por su leyenda romántica, ideal para tomar fotos y disfrutar de la atmósfera de la ciudad.
 Museo de las Momias de Guanajuato: Una atracción macabra pero fascinante, donde podrás ver momias que fueron descubiertas en el siglo XIX.
 Basilica de Guanajuato: Una iglesia impresionante en el centro de la ciudad que vale la pena visitar.
+
+## Foto
+![](https://media.iatitravelinsurance.com/wp-content/uploads/sites/8/2024/12/06033701/Monte-Alban.jpg)
+![](https://d2nepu52esyu7g.cloudfront.net/images/58594056-191a-4f2d-b6a1-10c26e260895_202309121736328397.webp)
