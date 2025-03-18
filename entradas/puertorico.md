@@ -33,3 +33,7 @@ Descripción: Puerto Rico alberga algunas de las bahías bioluminiscentes más b
 Lugares para visitar:
 Bahía de Mosquito (Vieques): Es la bahía más brillante del mundo y un lugar único para hacer kayak nocturno.
 Laguna Grande (Fajardo): Otra de las bahías bioluminiscentes más famosas, ideal para una excursión nocturna.
+
+## Foto
+![](https://es.rollingstone.com/wp-content/uploads/2023/05/10-playas-unicas-en-Puerto-Rico.jpg)
+![](https://www.paralanaturaleza.org/wp-content/uploads/2018/09/Puerto-Rico-y-sus-bah--as-bioluminiscentes.jpg)
