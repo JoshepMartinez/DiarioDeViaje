@@ -19,3 +19,7 @@ Consejo: Subir la colina puede ser cansado, pero puedes tomar el funicular para 
 - El Arco de Triunfo
 Descripción: Este impresionante monumento se encuentra al final de la Avenida de los Campos Elíseos y fue construido para conmemorar las victorias militares de Francia. Desde su cima, puedes disfrutar de una excelente vista de París.
 Consejo: Si planeas subir al Arco de Triunfo, asegúrate de cruzar la famosa rotonda de la Place de l'Étoile de manera segura (hay un túnel subterráneo para peatones).
+
+## Foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdXsgW-VCLwHCzEC5VXWTwjkv95Ca5VDCOw&s)
+![](https://alanxelmundo.com/wp-content/uploads/2022/07/Orsay4.jpg)
