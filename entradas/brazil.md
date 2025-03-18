@@ -28,3 +28,7 @@ Las famosas playas de Copacabana e Ipanema son perfectas para relajarte bajo el 
 
 - *Jardín Botánico:*
 Si te gusta la naturaleza, el Jardín Botánico de Río es un lugar tranquilo y hermoso para pasear. Aquí puedes ver una gran variedad de plantas tropicales y, con suerte, algunos animales como monos y tucanes.
+
+## Informacion sobre Brasil
+ Brasil es el país más grande de América del Sur y el quinto más grande del mundo, tanto en términos de área como de población. Es un destino de gran diversidad cultural, geográfica y biológica. 
+ 
