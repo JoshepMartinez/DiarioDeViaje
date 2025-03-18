@@ -19,3 +19,6 @@ España es un país ubicado en el suroeste de Europa, conocido por su rica histo
 ![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/af/ca/4f/caption.jpg?w=1200&h=-1&s=1)
 
 ![](https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/03/museo-del-prado-2.jpg)
+
+## Informacion sobre España
+España, país de la península ibérica de Europa, incluye 17 regiones autónomas con diversas características geográficas y culturales. En Madrid, su capital, se encuentra el Palacio Real y el Museo del Prado, que alberga obras de maestros europeos. Segovia tiene un castillo medieval (el Alcázar) y un acueducto romano intacto. La capital de Cataluña, Barcelona, se caracteriza por las obras modernistas extravagantes de Antoni Gaudí, como el templo de la Sagrada Familia.
