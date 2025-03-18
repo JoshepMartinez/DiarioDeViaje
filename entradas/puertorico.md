@@ -37,3 +37,6 @@ Laguna Grande (Fajardo): Otra de las bahías bioluminiscentes más famosas, idea
 ## Foto
 ![](https://es.rollingstone.com/wp-content/uploads/2023/05/10-playas-unicas-en-Puerto-Rico.jpg)
 ![](https://www.paralanaturaleza.org/wp-content/uploads/2018/09/Puerto-Rico-y-sus-bah--as-bioluminiscentes.jpg)
+
+## Informacion sobre Puerto Rico
+Puerto Rico es una isla del Caribe y un territorio no incorporado de Estados Unidos con un paisaje de montañas, cascadas y el bosque tropical El Yunque. En San Juan, la capital y ciudad más grande, el área de Isla Verde es famosa por su franja de hoteles, bares en la playa y casinos. El barrio de Viejo San Juan tiene edificios coloridos de estilo colonial español y las enormes fortalezas de El Morro y La Fortaleza, ambas construidas hace siglos.
