@@ -38,3 +38,6 @@ Basilica de Guanajuato: Una iglesia impresionante en el centro de la ciudad que 
 ## Foto
 ![](https://media.iatitravelinsurance.com/wp-content/uploads/sites/8/2024/12/06033701/Monte-Alban.jpg)
 ![](https://d2nepu52esyu7g.cloudfront.net/images/58594056-191a-4f2d-b6a1-10c26e260895_202309121736328397.webp)
+
+## Informacion sobre Mexico
+México es un país entre los Estados Unidos y América Central, conocido por las playas en el Pacífico y el golfo de México, y su diverso paisaje de montañas, desiertos y selvas. Las ruinas antiguas, como Teotihuacán y la ciudad maya de Chichén Itzá, se distribuyen por el país, al igual que las ciudades de la época colonial española. En la capital Ciudad de México, las elegantes tiendas, los famosos museos y los restaurantes gourmet son parte de la vida moderna. 
