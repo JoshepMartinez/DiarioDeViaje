@@ -21,3 +21,6 @@ recomendaciones turísticas para disfrutar al máximo de tu visita:
 ## Foto
 ![](https://fotografias.larazon.es/clipping/cmsimages01/2019/10/24/5601838E-C0CC-451F-AC13-F1D999A5AD19/98.jpg?crop=2000,1125,x0,y187&width=1900&height=1069&optimize=low&format=webply)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQ3Pm6ZzkwE0zjZP6lcf23DL6Jmci_dWFWw&s)
+
+## Informacion sobre Rusia
+La Federación de Rusia es el país más grande del mundo, con una superficie de 17.098.242 km². Se encuentra en el norte de Asia y el este de Europa. 
