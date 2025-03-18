@@ -17,3 +17,7 @@ recomendaciones turísticas para disfrutar al máximo de tu visita:
 *Iglesia de la Sangre Derramada:* Una iglesia ortodoxa famosa por sus mosaicos coloridos y su arquitectura única. Está construida en el lugar donde fue asesinado Tsar Alejandro II.
 *Palacio de Catalina y los Jardines de Peterhof:* Ambos son ejemplos de la opulencia imperial rusa. El Palacio de Catalina se encuentra en Tsarskoye Selo, mientras que Peterhof, conocido como "el Versalles ruso", se encuentra cerca del mar Báltico y es famoso por sus fuentes y jardines impresionantes.
 *Crucero por el río Neva:* San Petersburgo es conocida como la "Venecia del Norte", y un paseo en barco por el río Neva te ofrecerá vistas únicas de sus canales y monumentos históricos.
+
+## Foto
+![](https://fotografias.larazon.es/clipping/cmsimages01/2019/10/24/5601838E-C0CC-451F-AC13-F1D999A5AD19/98.jpg?crop=2000,1125,x0,y187&width=1900&height=1069&optimize=low&format=webply)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQ3Pm6ZzkwE0zjZP6lcf23DL6Jmci_dWFWw&s)
