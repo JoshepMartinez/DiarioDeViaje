@@ -44,3 +44,13 @@ Bahía de Cienfuegos: Puedes disfrutar de las vistas al mar y explorar sus alred
 ! [](https://static.wixstatic.com/media/fa946b_8f3d768fb7ee499ea2a4cabbdc1168b8~mv2.jpg/v1/fill/w_800,h_450,al_c,q_80,enc_avif,quality_auto/fa946b_8f3d768fb7ee499ea2a4cabbdc1168b8~mv2.jpg)
 
 ! [](https://www.travelreport.mx/wp-content/uploads/2019/06/lugares-turisticos-de-Cuba-habana.jpg)
+
+## Informacion sobre cuba
+- Cuba es el mayor productor de tabaco de calidad premium
+Cuba es mundialmente famosa por la calidad de su tabaco, especialmente por sus cigarros cubanos. El tabaco cubano se cultiva principalmente en la región de Viñales, en el occidente del país, y es considerado el mejor del mundo. Las marcas más conocidas son Cohiba, Partagás, Montecristo y Romeo y Julieta.
+
+- El Sistema de Salud Cubano es uno de los mejores del mundo
+A pesar de las dificultades económicas del país, Cuba tiene uno de los sistemas de salud más reconocidos a nivel mundial. El sistema es universal y gratuito, y el país ha alcanzado logros impresionantes en términos de salud pública, como una esperanza de vida similar a la de los países más desarrollados y una tasa de mortalidad infantil extremadamente baja. Además, Cuba es famosa por su formación en medicina y biotecnología, siendo líder en la producción de vacunas y tratamientos innovadores.
+
+- La Habana Vieja es Patrimonio de la Humanidad
+La Habana Vieja es el centro histórico de La Habana, y en 1982 fue declarado Patrimonio de la Humanidad por la UNESCO. Esta zona de la ciudad conserva muchos de sus edificios coloniales, que datan de los siglos XVI y XVII, con calles adoquinadas y coloridas casas que reflejan la historia y el carácter único de la isla.
