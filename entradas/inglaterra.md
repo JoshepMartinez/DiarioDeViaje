@@ -24,3 +24,7 @@ Estas dos ciudades universitarias históricas son conocidas por sus universidade
 
 - *Los Lagos del Distrito (Lake District)*
 Si te gustan los paisajes naturales, el Lake District es uno de los destinos más bellos de Inglaterra. Esta región montañosa y de lagos, situada en el noroeste de Inglaterra, es ideal para hacer caminatas, navegar en barco o disfrutar de tranquilos pueblos como Keswick y Ambleside. Es un lugar perfecto para los amantes de la naturaleza y el aire libre.
+
+## Foto
+![](https://www.globalconnection.com.co/wp-content/uploads/2024/06/destinos-turisticos-en-Inglaterra.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5HEKjXVoqkGezEH0yly8OyR7Ev7ZNCxpXWg&s)
