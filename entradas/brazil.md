@@ -31,4 +31,8 @@ Si te gusta la naturaleza, el Jardín Botánico de Río es un lugar tranquilo y 
 
 ## Informacion sobre Brasil
  Brasil es el país más grande de América del Sur y el quinto más grande del mundo, tanto en términos de área como de población. Es un destino de gran diversidad cultural, geográfica y biológica. 
+
+ ## Foto
+ ! [](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/e4/12/c9/visao-privilegiada.jpg?w=500&h=500&s=1)
+ ! [](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/57/8a/a2/copacabana.jpg?w=500&h=400&s=1)
  
